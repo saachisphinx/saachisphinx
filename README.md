@@ -26,7 +26,6 @@ I enjoy building reliable data services, tuning performance with execution plans
 - ⚙️ Strong in T-SQL, stored procedures, performance tuning, and data-heavy backend workflows
 - ☁️ Comfortable with AWS + Azure tooling, Docker, and GitHub Actions CI/CD
 
-> Highlights pulled from my resume: SQL Server optimization, ETL/batch pipelines, cloud deployments, and backend/API work.
 
 ---
 
